@@ -8,10 +8,16 @@ Let's illustrate the program and what SEGGER TOOL do??
 
 2️⃣ By SEGGER TOOL we can find out that:
 
+
 1 - How many tasks are running and how much duration they consume.
+
 2 - All context in the Program.
+
 3 - ISR entry & exit and how much Timings.
+
 4- How every task occupies CPU load.
+
 5- Full timeline for the program.
+
 
 👉 So it's clarifies what exactly happen in which order, Which interrupt has triggered, Which task is switched.
